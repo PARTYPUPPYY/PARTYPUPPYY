@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Emilys+Candy&pause=1000&color=FFB3FC&center=true&vCenter=true&width=435&lines=intertwined+%2C+sewn+together+%E2%99%A1)](https://git.io/typing-svg)
 
-lol gotta fix pngs links will be up soon
+[![straw](strawpage.png)](https://partypupper.straw.page) [![ata](atabookk.png)](https://partypuppy.atabook.org) [![carrd](carrd.png)](https://partypupper.carrd.co)
 
 <sub>*graphic by me , art by pumkit_ & wekko on pin !*</sub>
 
