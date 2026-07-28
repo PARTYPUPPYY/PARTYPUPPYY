@@ -2,6 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=partypuppy&color=ff90da&label=pups)
 
+<sub>very unwell atm ↓ ↓ taking a break </sub>
+
+<sub>07 / 28 / 26</sub>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Emilys+Candy&pause=1000&color=FF90DA&center=true&vCenter=true&width=435&lines=not+a+lot+%2C+just+forever)](https://git.io/typing-svg)
   
 ![graphic](nursegraphic.png)
@@ -16,4 +20,3 @@
 
 <sub>i enjoy dw <ins>*characters*</ins> , i do not support qwel</sub>
 
-<sub>on break .</sub>
