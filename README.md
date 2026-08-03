@@ -16,5 +16,9 @@
 
 <sub>i enjoy dw <ins>*characters*</ins> , i do not support qwel</sub>
 
-<sub><ins>[@pt-walk-of-fame](https://github.com/pt-walk-of-fame) [@pt-hall-of-media](https://github.com/pt-hall-of-media) [@pt-fashion](https://github.com/pt-fashion)</ins></sub>
+<details>
+  <summary></summary>
+  
+  <sub><ins>[@pt-walk-of-fame](https://github.com/pt-walk-of-fame) [@pt-hall-of-media](https://github.com/pt-hall-of-media) [@pt-fashion](https://github.com/pt-fashion) [title-town](https://github.com/title-town)</ins></sub>
 
+</details>
