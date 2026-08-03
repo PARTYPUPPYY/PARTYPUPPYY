@@ -2,17 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=partypuppy&color=ff90da&label=pups)
 
-<sub>very unwell atm ↓ ↓ taking a break </sub>
+<sub>doing better ! retheme soon</sub>
 
-<sub>07 / 28 / 26</sub>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Emilys+Candy&pause=1000&color=FF90DA&center=true&vCenter=true&width=435&lines=even+through+the+pain+%2C+animals+cannot+change)](https://git.io/typing-svg)
-  
-![graphic](nursegraphic.png)
-
-[![straw](strawpage.png)](https://partypupper.straw.page) [![ata](atabookk.png)](https://partypuppy.atabook.org) [![carrd](carrd.png)](https://partypupper.carrd.co)
-
-<sub>visit carrd dni n more info</sub>
+[straw](https://partypupper.straw.page) [ata](https://partypuppy.atabook.org) [carrd](https://partypupper.carrd.co)
 
 <sub>i enjoy dw <ins>*characters*</ins> , i do not support qwel</sub>
 
