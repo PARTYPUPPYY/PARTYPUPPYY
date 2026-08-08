@@ -1,15 +1,23 @@
 <div align=center> 
 
-![](https://komarev.com/ghpvc/?username=partypuppy&color=ff90da&label=pups)
+![](https://komarev.com/ghpvc/?username=partypuppy&color=a168a9&label=pups)
 
-<sub>doing better ! retheme soon</sub>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&duration=3000&pause=1000&color=693289&center=true&vCenter=true&width=435&lines=sometimes+i+wonder+if+i+exist+at+all+.)](https://git.io/typing-svg)
 
-[straw](https://partypupper.straw.page) [ata](https://partypuppy.atabook.org) [carrd](https://partypupper.carrd.co)
+![higuys](susiegraphic.png)
 
-<sub>i enjoy dw <ins>*characters*</ins> , i do not support qwel</sub>
+[![ata](atabook.png)](https://partypupper.atabook.org) [![carrd](carrdb.png)](https://partypupper.carrd.co)
+
+![hiagain](moridiv.png)
 
 <details>
   <summary></summary>
+
+mikaela + legion main ( p20 L + p10 L currently )<br/>
+<sub>i spent all my bloodpoints on ada so legion is a little low rn </3</sub>
+
+visit carrd for more info<br/>
+<sub>a little outdated , will update it eventually lol</sub>
   
   <sub><ins>[@pt-walk-of-fame](https://github.com/pt-walk-of-fame) [@pt-hall-of-media](https://github.com/pt-hall-of-media) [@pt-fashion](https://github.com/pt-fashion) [title-town](https://github.com/title-town)</ins></sub>
 
