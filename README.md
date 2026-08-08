@@ -1,8 +1,8 @@
 <div align=center> 
 
-![](https://komarev.com/ghpvc/?username=partypuppy&color=a168a9&label=pups)
+![](https://komarev.com/ghpvc/?username=partypuppy&color=5d3170&label=pups)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&duration=3000&pause=1000&color=693289&center=true&vCenter=true&width=435&lines=sometimes+i+wonder+if+i+exist+at+all+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&duration=3000&pause=1000&color=5d3170&center=true&vCenter=true&width=435&lines=sometimes+i+wonder+if+i+exist+at+all+.)](https://git.io/typing-svg)
 
 ![higuys](susiegraphic.png)
 
