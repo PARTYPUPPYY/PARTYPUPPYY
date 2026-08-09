@@ -6,7 +6,7 @@
 
 ![higuys](susiegraphic.png)
 
-[![ata](atabook.png)](https://partypupper.atabook.org) [![carrd](carrdb.png)](https://partypupper.carrd.co)
+[![ata](atabook.png)](https://partypuppy.atabook.org) [![carrd](carrdb.png)](https://partypupper.carrd.co)
 
 ![hiagain](moridiv.png)
 
