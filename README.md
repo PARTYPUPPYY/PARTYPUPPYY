@@ -13,7 +13,7 @@
 <details>
   <summary></summary>
 
-mikaela + legion main ( p20 L + p10 L currently )<br/>
+mikaela + legion main ( p20 M + p10 L currently )<br/>
 <sub>i spent all my bloodpoints on ada so legion is a little low rn </3</sub>
 
 visit carrd for more info<br/>
