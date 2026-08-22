@@ -1,19 +1,13 @@
 <div align=center> 
 
-![](https://komarev.com/ghpvc/?username=partypuppy&color=5d3170&label=pups)
+![](https://komarev.com/ghpvc/?username=partypuppy&color=FFAED5&label=pups)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&duration=3000&pause=1000&color=5d3170&center=true&vCenter=true&width=435&lines=sometimes+i+wonder+if+i+exist+at+all+.)](https://git.io/typing-svg)
+rethemeing
 
-![higuys](susiegraphic.png)
-
-[![ata](atabook.png)](https://partypuppy.atabook.org) [![carrd](carrdb.png)](https://partypupper.carrd.co)
-
-![hiagain](moridiv.png)
+[ata](https://partypuppy.atabook.org) [carrd](https://partypupper.carrd.co)
 
 <details>
   <summary></summary>
-
-mikaela + legion main
 
 visit carrd for more info<br/>
 <sub>a little outdated , will update it eventually lol</sub>
